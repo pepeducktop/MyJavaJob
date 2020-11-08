@@ -10,6 +10,7 @@
 - Java基础
     - 面向对象
     - 集合框架
+        -  [集合体系.md](Java基础/集合框架/集合体系.md) 
     - 常用API
     - JVM
     - JUC
@@ -37,3 +38,9 @@
     - Kafka
 - 搜索
     - solr
+- 开发工具
+    - IDEA
+        1.  [IDEA的使用心得.md](开发工具/IDEA/IDEA的使用心得.md) 
+        2.  [idea项目打开的时候显示java文件显示j图标解决方案.md](开发工具/IDEA/idea项目打开的时候显示java文件显示j图标解决方案.md) 
+    - 博客
+        1.  [PicGo+码云（gitee）图床环境搭建.md](开发工具/博客/PicGo+码云（gitee）图床环境搭建.md) 
