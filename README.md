@@ -45,5 +45,4 @@
 - 开发工具
     - IDEA
         1.  [IDEA的使用心得.md](开发工具/IDEA/IDEA的使用心得.md) 
-        2.  [idea项目打开的时候显示java文件显示j图标解决方案.md](开发工具/IDEA/idea项目打开的时候显示java文件显示j图标解决方案.md) 
-    
+        2.  [idea项目打开的时候显示java文件显示j图标解决方案.md](开发工具/IDEA/idea项目打开的时候显示java文件显示j图标解决方案.md)
